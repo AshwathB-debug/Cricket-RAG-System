@@ -1,0 +1,52 @@
+No.,Question,Retrieval Hit,Judge Verdict,Judge Reasoning
+1,What happens if a bowler bowls a no-ball?...,🔴,CORRECT,"The answer accurately restates the retrieved context (the ball is rebowled, giving the batting side "
+2,How is a batter given out 'leg before wicket' (LBW...,🟢,"CORRECT: the answer restates Law 36 accurately, and the quoted evidence appears verbatim in the retrieved context and directly supports the claim.",
+3,What is the maximum number of fielders allowed out...,🟢,"CORRECT: The claim matches the context, which says that in the first 10 overs (the mandatory powerplay) at most two fielders may be outside the 30-yard circle. The quote appears verbatim and supports the claim. The answer does not cover the later powerplays (four and five fielders), but ""powerplay"" most naturally refers to the mandatory one.",
+4,How many players are on each side in a game of cri...,🟢,CORRECT,"The answer of eleven players per side is factually accurate, and the quoted evidence appears verbati"
+5,What is the standard length of a cricket pitch?...,🟢,CORRECT," The standard cricket pitch is 22 yards (20 m) long, and the quoted sentence ""the wickets are placed"
+6,What does it mean for a batter to be given out 'ru...,,"CORRECT: The retrieved context describes how runs are scored but never defines a ""run out"" dismissal, so the model rightly said the answer isn't there, and the quoted sentence does appear in the context as the closest related passage.",
+7,What does it mean for a batter to be 'stumped'?...,🔴,CORRECT,"The retrieved context only contains repeated ""Stoppage in first innings"" headings with no definition"
+8,What is the consequence of a batter hitting the ba...,🟢,CORRECT,"The answer says six runs are scored, which is factually right, and the quoted Law 19 text appears ve"
+9,How many dismissals are required to end an innings...,🟢,INCORRECT," The correct answer is ten dismissals, since the innings ends when only one batter is left not out. "
+10,What is a 'free hit' in white-ball cricket?...,🔴,CORRECT,"The context never mentions ""free hit"" (it covers only runs, extras and no-balls in general), so the "
+11,"Which country won the first Cricket World Cup, in ...",🟢,CORRECT,"The West Indies won the 1975 Cricket World Cup, and the quoted sentence appears verbatim in the retr"
+12,Who did India play in the final of the 2011 Cricke...,🟢,CORRECT,"India beat Sri Lanka in the 2011 final, and the quoted sentence appears verbatim in the retrieved co"
+13,Who did India play in the semi-final of the 2011 C...,🔴,INCORRECT,"India played Pakistan in the 2011 World Cup semi-final in Mohali, and Sri Lanka was the opponent in "
+14,What is the Duckworth–Lewis–Stern method used for?...,🟢,UNSUPPORTED," The claim is factually correct, since DLS calculates revised targets in interrupted limited-overs c"
+15,How many overs are bowled per side in a T20 Intern...,🔴,"CORRECT: The context covers only ODI rules (50 overs per side) and says nothing about T20 Internationals, so the model rightly said the context lacks the answer, and its quote appears verbatim in the context and is used only to show the ODI-only content.",
+16,In which year was the IPL founded?...,🟢,CORRECT,"The answer states the IPL was founded in 2007, and the quoted evidence ""Founded in 2007, it features"
+17,How often is the Cricket World Cup held?...,🟢,CORRECT,"The answer says the Cricket World Cup is held quadrennially (every four years), which is accurate. T"
+18,Which country has won the most Cricket World Cup t...,🟢,CORRECT," The retrieved context contains only repeated ""Titles summary"" headings with no actual information o"
+19,When was the first ICC Men's T20 World Cup held?...,🟢,CORRECT,"The retrieved context contains only ""History"" headings with no date information, so the model correc"
+20,Which country won the inaugural ICC Men's T20 Worl...,🟢,CORRECT,"India won the 2007 inaugural tournament (defeating Pakistan in the final), and the quoted evidence a"
+21,How many days does a Test cricket match typically ...,🟢,CORRECT,"The answer of five days is factually accurate, and the quoted sentence (""Today, Test matches are sch"
+22,What color ball is traditionally used in Test cric...,🟢,"INCORRECT: Test cricket traditionally uses a red ball, not white. The quoted evidence appears in the context but concerns white clothing, not the ball, so it does not support the claim.",
+23,How many overs are played per side in a One Day In...,🟢,"CORRECT. The answer says 50 overs per side, which is factually right, and the quoted evidence appears verbatim in the retrieved context and directly supports that claim.",
+24,Why was the Duckworth-Lewis method originally crea...,🟢,"CORRECT. The answer says the method was created to set a fair target for the team batting second in a rain-interrupted limited-overs match, which is accurate, and the quoted evidence appears verbatim in the retrieved context and supports that claim.",
+25,How many teams currently compete in the Indian Pre...,🟢,CORRECT,"The retrieved context contains only repeated ""Present teams Former teams Suspended"" headings with no"
+26,What format of cricket is played in the IPL?...,🔴,UNSUPPORTED,"The claim that the IPL uses T20 is factually true, but the retrieved context contains only empty ""Fo"
+27,Which franchise won the inaugural season of the In...,🟢,INCORRECT," The 2008 IPL was won by the Rajasthan Royals, who beat Chennai Super Kings in the final, so the ans"
+28,In what decade was the first Test match played?...,🟢,CORRECT,"The first Test match was played in March 1877, which falls in the 1870s, and the quoted evidence app"
+29,"What is Virat Kohli's role on the field (batter, b...",🟢,CORRECT," The retrieved context contains only repeated ""Outside cricket"" headings with no information about V"
+30,Which format of cricket did Shane Warne primarily ...,🟢,CORRECT,"The retrieved context contains only repeated ""International career"" headings with no information on "
+31,What nationality is Ravichandran Ashwin?...,🟢,CORRECT," The retrieved context contains only repeated ""International career"" headings with no nationality in"
+32,What is Jasprit Bumrah best known for as a bowler?...,🟢,CORRECT,The claim that Bumrah is widely regarded as one of the greatest bowlers in cricket history is accura
+33,How many international centuries did Sachin Tendul...,🟢,CORRECT,"Tendulkar scored 100 international centuries (51 Test + 49 ODI), and the quoted sentence appears ver"
+34,What is Sachin Tendulkar's commonly used nickname?...,🟢,UNSUPPORTED," The claim is true (Tendulkar is widely nicknamed ""The Little Master,"" and also ""Master Blaster""), b"
+35,Has Virat Kohli ever captained the Indian national...,🟢,CORRECT,"Kohli did captain India in all formats, and the quoted sentence appears verbatim in the context and "
+36,What is unusual or notable about Jasprit Bumrah's ...,🟢,"CORRECT. The answer's claims about the unorthodox action, hyperextended elbows, short stuttering run-up, stiff-armed action, hard-to-read release point and front-on action all appear in the context, and the quoted evidence is a verbatim match that supports them.",
+37,How many Test wickets did Shane Warne take over hi...,🟢,CORRECT,"The retrieved context contains only repeated ""Test 10-wicket hauls"" headings with no wicket total, s"
+38,Is Ravichandran Ashwin a spin bowler or a pace bow...,🟢,CORRECT,"The answer correctly says Ashwin is a right-arm off spin bowler (a spinner, not a pace bowler), and "
+39,Which IPL team did Shane Warne captain to a title ...,🟢,CORRECT,"The answer (Rajasthan Royals, winners of the inaugural 2008 IPL under Warne's captaincy) is factuall"
+40,In what year did Sachin Tendulkar make his interna...,🟢,INCORRECT,"Tendulkar's international debut was in 1989 (against Pakistan in Karachi), not 1988, and the quoted "
+41,Has Jasprit Bumrah ever taken a hat-trick in Test ...,🟢,"CORRECT: The retrieved context contains only repeated ""Outside cricket"" headings and nothing about Bumrah's Test record, so the model rightly declined to answer instead of guessing, and its quoted evidence does appear in the context.",
+42,Which bowling style is Ravichandran Ashwin known f...,🟢,CORRECT,"Ashwin is an off-spinner, and the quoted sentence appears verbatim in the context and directly suppo"
+43,In which city or state was Virat Kohli born?...,🟢,CORRECT,"Virat Kohli was born in New Delhi, and the quoted sentence appears verbatim in the retrieved context"
+44,Who holds the record for most Test wickets by a sp...,🟢,INCORRECT," Muralitharan holds the record with 800 Test wickets, ahead of Warne's 708, so the claim that Warne "
+45,What is the offside rule in football?...,🟢,CORRECT,"The retrieved context contains only repeated ""Stoppage in first innings"" headings with no informatio"
+46,Who won the most recent Cricket World Cup?...,🟢,CORRECT,"The retrieved context contains only repeated ""Titles summary"" headings with no information about any"
+47,How many total Test wickets did Muttiah Muralithar...,🟢,"CORRECT. The context never gives Muralitharan's Test wicket total, so the model rightly said it was missing, and its quoted evidence appears verbatim in the context and supports the Man of the Series point it was used for.",
+48,Who holds the record for the fastest goal scored i...,🟢,CORRECT,"The retrieved context contains only repeated ""Tournament records"" headings with no information about"
+49,Who won the FIFA Women's World Cup in 2023?...,🟢,CORRECT," The retrieved context covers only the 2023 Cricket World Cup, not the FIFA Women's World Cup, so th"
+50,What is the career high score of Brian Lara in Tes...,🟢,"CORRECT: the context never gives Lara's highest Test score (400*), so the model rightly said so, and its side claim that Tendulkar broke Lara's record for most Test runs is supported, though the quoted evidence is a slight paraphrase of ""breaking the record for most Test runs held by Brian Lara.""",
+,SUMMARY,43/50 (86.0%),41/50 (82.0%),

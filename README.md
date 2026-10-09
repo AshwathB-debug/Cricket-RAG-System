@@ -46,3 +46,12 @@ Both figures were stable across repeated runs (deterministic generation + determ
 2. **Use a GPU runtime.** Qwen3-4B is downloaded and run locally via Transformers, so a GPU is strongly recommended. [Google Colab](https://colab.research.google.com/) is a good starting point — the free tier's T4 GPU works, though a Colab Pro subscription ($9.99/mo) gives access to faster GPUs like the A100 or G4. On Intel hardware, OpenVINO can be used instead of Transformers, with a noticeable performance tradeoff.
 3. **Running the chatbot only**: run every cell in order, skipping the evaluation cell.
 4. **Running the full evaluation**: run the dependency-install cell, then the RAG system cell, then the evaluation cell last.
+
+
+
+## Acknowledgments
+
+This project uses the following open-source/open-weight models and datasets:
+- [Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) (Apache 2.0) — generation model
+- [Qwen3-Embedding-0.6B](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) (Apache 2.0) — embedding model
+- Wikipedia content, used under [CC BY-SA 4.0](https://en.wikipedia.org/wiki/Wikipedia:Copyrights)
